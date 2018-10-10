@@ -5,3 +5,4 @@ Program for creating a Caesar cipher with a key chosen by the user for any lengt
 Game of Rock Paper Scissors that can be played by two people on the same computer;
 Program that replicates sand falling down a table and quantifying the units of sand piled up along a horizontal axis;
 Program that approximates any square root of a given number in easygui;
+Game of blackjack that records number of player wins and plays until the player chooses to exit;
