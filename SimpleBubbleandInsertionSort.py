@@ -24,7 +24,6 @@ while changed == False:
 print "This is the sorted list: " + "\n" + str(sortnum)
 
 #==============INSERTION SORT==============
-
 import random
 
 sortnum = []
